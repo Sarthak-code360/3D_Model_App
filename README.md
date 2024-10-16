@@ -36,7 +36,14 @@ npm run reset-project
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 
-Implemented the 3D Model successfully
+## Implemented the 3D Model successfully: 
+### Error faced:
+Difficulty in the installation of @react-three/drei 
+### Tip:
+Downgrade the @three to
+```bash
+"three": "^0.166.0"
+```
 
 ## Learn more
 
